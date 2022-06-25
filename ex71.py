@@ -3,7 +3,7 @@
 print('='*40)
 print('{:^30}'.format('banco bb').upper())
 print('='*40)
-valor=int(input('qual valor vc deseja sacar ?'.upper()))#fazer essa merda de novo pq eu so copiei essa karaia  tnc poha  g.g
+valor=int(input('qual valor vc deseja sacar ?'.upper()))
 total=valor
 ced=50
 totalcd=0
